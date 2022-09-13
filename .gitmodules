@@ -1,3 +1,6 @@
 [submodule "Arduino_Hot_Air_Gun"]
 	path = Arduino_Hot_Air_Gun
 	url = https://github.com/sfrwmaker/Arduino_Hot_Air_Gun.git
+[submodule "Ultimate-Box-Maker"]
+	path = Ultimate-Box-Maker
+	url = https://github.com/jbebel/Ultimate-Box-Maker.git
